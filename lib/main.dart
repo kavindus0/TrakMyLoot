@@ -21,17 +21,46 @@ class _ExpenseTrackerHomeState extends State<ExpenseTrackerHome> {
       home: Scaffold(
         appBar: AppBar(
           actions: [
-            IconButton(
-                onPressed: () {
-                  setState(() {
-                    _theme_is_white = _theme_is_white ? false : true;
-                  });
-                },
-                icon: _theme_is_white
-                    ? const Icon(Icons.dark_mode)
-                    : const Icon(Icons.light_mode))
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: IconButton(
+                  onPressed: () {
+                    setState(() {
+                      _theme_is_white = _theme_is_white ? false : true;
+                    });
+                  },
+                  icon: _theme_is_white
+                      ? const Icon(
+                          Icons.dark_mode,
+                          size: 30,
+                        )
+                      : const Icon(
+                          Icons.light_mode,
+                          size: 30,
+                        )),
+            )
           ],
-          title: const Text("TrakMyLoot"),
+          leading: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: IconButton(
+              onPressed: () {},
+              icon: const Icon(
+                Icons.add_circle_outline,
+                size: 30,
+              ),
+            ),
+          ),
+          title: const Center(
+            child: Text(
+              "TrakMyLoot",
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 30.0,
+                textBaseline: TextBaseline.ideographic,
+              ),
+              textAlign: TextAlign.center,
+            ),
+          ),
         ),
         body: const Center(
           child: Text("Expenses Tracker"),
