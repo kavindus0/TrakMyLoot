@@ -34,7 +34,7 @@ class _ExpenseTrackerHomeState extends State<ExpenseTrackerHome> {
           title: const Text("TrakMyLoot"),
         ),
         body: const Center(
-          child: Text("Expense Tracker"),
+          child: Text("Expenses Tracker"),
         ),
       ),
     );
