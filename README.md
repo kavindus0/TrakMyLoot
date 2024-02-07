@@ -1,4 +1,4 @@
-# expensetracker
+# TrakMyLoot
 
 Personal Expenses Tracker
 
