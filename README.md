@@ -5,7 +5,7 @@
 Personal Expenses Tracker
 
 Take Control of Your Finances with Effortless Expense Tracking 
-(Flutter Project)
+# (Ongoing Flutter Project)
 
  Empower yourself to make informed financial decisions with TrakMyLoot, a user-friendly expense tracking app built with the powerful Flutter framework.
 
