@@ -17,7 +17,11 @@ Customizable Tracking: Create personalized categories or subcategories to suit y
 Offline Support: Track your expenses even without an internet connection, ensuring uninterrupted budgeting.
  Powerful Insights to Inform Your Choices:
 
-Visualize Your Spending: Gain clear understanding of your financial landscape through easy-to-read charts and graphs.
-Set Budgets and Track Progress: Define spending limits for different categories and monitor your adherence to stay on track.
-Identify Spending Trends: Uncover patterns in your spending behavior to make informed adjustments and optimize your budget.
-Forecast Future Expenses: Get a glimpse into your upcoming financial commitments based on your historical spending data.
+Visualize Your Spending: 
+Gain clear understanding of your financial landscape through easy-to-read charts and graphs.
+Set Budgets and Track Progress: 
+Define spending limits for different categories and monitor your adherence to stay on track.
+Identify Spending Trends: 
+Uncover patterns in your spending behavior to make informed adjustments and optimize your budget.
+Forecast Future Expenses: 
+Get a glimpse into your upcoming financial commitments based on your historical spending data.
